@@ -1,3 +1,4 @@
+
 # Proyecto: Estación Meteorológica 2026
 ## Especialidad / 5to Año
 Este repositorio contiene el desarrollo integral de una estación meteorológica, integrando hardware con Arduino UNO, Programación en el Visual Studio Code en Python y Análisis de datos con MySQL.
@@ -5,7 +6,7 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 ### Datos del Estudiante
 | Apellido y Nombre | E-mail | GitHub |
 | :--- | :--- | :--- |
-| Barrionuevo Martina | martinabarrionuevo@escuelasproa.edu.ar | [ver perfil](https://github.com/martinabarrionuevo)|
+| Zalazar Lucila |lzalazar@escuelasproa.edu.ar | [ver perfil](https://github.com/luuzalazar)|
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 ## Estructura del Proyecto
@@ -38,3 +39,4 @@ En este proyecto integramos diversas herramientas distribuidas en tres áreas cl
 **Componentes**: Arduino UNO R3, sensores de temperatura, humedad y presión para el prototipo físico.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
+
