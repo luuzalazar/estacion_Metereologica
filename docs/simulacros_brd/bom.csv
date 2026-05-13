@@ -1,5 +1,9 @@
-﻿Nombre,Cantidad,Componente
+﻿Name,Quantity,Component
 "U1",1," Arduino Uno R3"
-"D1",1,"Azul LED"
-"R1",1,"220 kΩ Resistencia"
-"U2",1," Sensor de temperatura [TMP36]"
+"D1",1,"Red LED"
+"R1",1,"220 kΩ Resistor"
+"U2",1," Temperature Sensor [TMP36]"
+"R2",1,"220 Ω Resistor"
+"D2",1,"Blue LED"
+"PIEZO1",1," Piezo"
+"U3",1,"MCP23008-based, 32 (0x20) LCD 16 x 2 (I2C)"
