@@ -1,45 +1,53 @@
-```diff
-+ * **Proyecto: Estación Meteorológica 2026
+# 🌦️ Proyecto: Estación Meteorológica 2026
 ## Especialidad / 5to Año
-Este repositorio contiene el desarrollo integral de una estación meteorológica, integrando hardware con Arduino UNO, Programación en el Visual Studio Code en Python y Análisis de datos con MySQL.
-----------------------------------------------------------------------------------------------------------------------------------------------
-### Datos del Estudiante
+
+Este repositorio contiene el desarrollo integral de una estación meteorológica, integrando hardware con Arduino UNO, programación en Python (Visual Studio Code) y análisis de datos con MySQL.
+
+---
+
+## 👩‍🎓 Datos del Estudiante
+
 | Apellido y Nombre | E-mail | GitHub |
 | :--- | :--- | :--- |
-| Zalazar Lucila |lzalazar@escuelasproa.edu.ar | [ver perfil](https://github.com/luuzalazar)|
+| Zalazar Lucila | lzalazar@escuelasproa.edu.ar | [Ver perfil](https://github.com/luuzalazar) |
 
-----------------------------------------------------------------------------------------------------------------------------------------------
-Markdown
-```diff
-## Estrctura del Proyecto
-+ * **analisis_ipynb/** Prototipado de datos en Google Colab.
-- * **arduino_ino/** Código fuente para el Arduino UNO R3.
-! * **dashboard_pbix/**: Reportes en Power BI.
-+ * **database_sql/**: Scripts de MySQL Workbench.
-- * **docs/**: Documentación y leyes de software.
-! * **python_app/**: Aplicación de escritorio (POO).
+---
 
+## 📁 Estructura del Proyecto
 
-----------------------------------------------------------------------------------------------------------------------------------------------
+- 📊 **analisis_ipynb/**: Prototipado y análisis de datos en Google Colab.
+- 💻 **arduino_ino/**: Código fuente para Arduino UNO R3.
+- 📈 **dashboard_pbix/**: Reportes y visualizaciones en Power BI.
+- 🗄️ **database_sql/**: Scripts SQL para MySQL Workbench.
+- 📚 **docs/**: Documentación del proyecto.
+- 🐍 **python_app/**: Aplicación de escritorio desarrollada en Python (POO).
+
+---
+
 ## 🛠️ Tecnologías Utilizadas
 
+El proyecto integra herramientas de tres áreas principales:
 
-En este proyecto integramos diversas herramientas distribuidas en tres áreas clave:
-
-### 🔬 Club de Ciencias (Análisis y Datos)
-[Google Colab](https://colab.research.google.com/) - Prototipado de datos y uso de librerías científicas.
-[MySQL Workbench](https://www.mysql.com/products/workbench/) - Diseño y gestión de la base de datos relacional.
-[Power BI](https://powerbi.microsoft.com/) - Creación de dashboards interactivos para la visualización del clima.
+### 🔬 Club de Ciencias (Análisis de Datos)
+- :contentReference[oaicite:0]{index=0} — Prototipado de datos y uso de librerías científicas.
+- :contentReference[oaicite:1]{index=1} — Diseño y gestión de la base de datos relacional.
+- :contentReference[oaicite:2]{index=2} — Creación de dashboards interactivos para análisis del clima.
 
 ### 🐍 Programación III (Software)
-[Visual Studio Code](https://code.visualstudio.com/) - Entorno de desarrollo (IDE) principal.
-[Python](https://www.python.org/) - Lenguaje de programación con enfoque en **POO** (Programación Orientada a Objetos).
-**Librerías de Conexión**: Uso de conectores para vincular la lógica de Python con la base de datos.
+- :contentReference[oaicite:3]{index=3} — Entorno de desarrollo principal.
+- :contentReference[oaicite:4]{index=4} — Lenguaje principal con enfoque en Programación Orientada a Objetos (POO).
+- Conectores para vincular Python con la base de datos MySQL.
 
 ### 🤖 Robótica (Hardware y Simulación)
-[Arduino IDE](https://www.arduino.cc/en/software) - Programación del microcontrolador en **C++**.
-[Tinkercad](https://www.tinkercad.com/) - Simulación del circuito electrónico y sensores.
-**Componentes**: Arduino UNO R3, sensores de temperatura, humedad y presión para el prototipo físico.
+- :contentReference[oaicite:5]{index=5} — Programación del microcontrolador en C++.
+- :contentReference[oaicite:6]{index=6} — Simulación de circuitos electrónicos.
+- **Componentes**: Arduino UNO R3, sensores de temperatura, humedad y presión.
 
-----------------------------------------------------------------------------------------------------------------------------------------------
+---
 
+## 📌 Notas del Proyecto
+- Proyecto académico integrador.
+- Enfocado en adquisición, procesamiento y visualización de datos climáticos.
+- Combina hardware + software + análisis de datos.
+
+---
